@@ -66,6 +66,7 @@ Some database schema design made by me as per the given requirements. I made the
 
 
 **Future Scope:**
+
       -Store ratings and feedback or the class.
   
       -Collaborative lectures taken by multiple instructors.
