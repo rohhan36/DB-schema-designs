@@ -5,7 +5,6 @@ Some database schema design made by me as per the given requirements. I made the
 
 **Requirements**
   -Netflix has users
-  
   -Every user has an email and a password
   -Users can create profiles to have separate independent environments.
   -Each profile has a name and a type. Type can be KID or ADULT.
